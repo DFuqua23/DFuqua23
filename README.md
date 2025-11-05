@@ -8,7 +8,7 @@ Currently, I’m building practical projects to learn and demonstrate skills.
 
 ## Objective
 
-Seeking an entry-level IT Help Desk or SOC Analyst role where I can leverage my knowledge of networking, security monitoring, and scripting to provide high-quality support, detect threats, and contribute to organizational security posture. I aim to continuously grow my technical expertise while delivering measurable results for the team.
+Seeking an entry-level IT Help Desk or SOC Analyst role where I can leverage my knowledge of networking, security monitoring, and scripting to provide high-quality support and contribute to organizational security posture. I aim to continuously grow my technical expertise while delivering measurable results for the team.
 
 ## Certifications
 <div>
