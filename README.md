@@ -17,7 +17,7 @@ Seeking an entry-level IT Help Desk or SOC Analyst role where I can leverage my 
 
 </div>
 
-## Projects
+## Projects (In Progress)
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
