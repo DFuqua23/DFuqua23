@@ -2,11 +2,13 @@
 <a href="https://linkedin.com/in/dominique-fuqua-df?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8jNZAHzCTLGb2e5PYXp8NQ%3D%3D"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ## About Me
 
-I am a recent graduate 
+I am an aspiring IT and cybersecurity professional. I’m passionate about using technology to solve problems, improve efficiency, and protect systems from threats.
+
+Currently, I’m building practical projects to learn and demonstrate skills.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a Tier 1 Analyst.
+Seeking an entry-level IT Help Desk or SOC Analyst role where I can leverage my knowledge of networking, security monitoring, and scripting to provide high-quality support, detect threats, and contribute to organizational security posture. I aim to continuously grow my technical expertise while delivering measurable results for the team.
 
 ## Certifications
 <div>
