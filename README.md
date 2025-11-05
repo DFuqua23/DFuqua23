@@ -4,7 +4,7 @@
 
 I am a recent graduate with hands on experience. I’m passionate about learning new technology to solve problems, improve efficiency, and protect systems from threats.
 
-Currently, I’m building practical projects to demonstrate skills.
+Currently, I’m building practical projects to practice tools and demonstrate skills.
 
 ## Objective
 
