@@ -1,10 +1,10 @@
-## Hello, I'm Dominique
+## 👋🏽Hello, I'm Dominique
 <a href="https://linkedin.com/in/dominique-fuqua-df?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8jNZAHzCTLGb2e5PYXp8NQ%3D%3D"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 👨🏾‍💻Aspiring cybersecurity analyst <br/>
 🧑🏾‍🎓Studied IT fundamentals and cybersecurity concepts at San Diego State University, California <br/>
 💭Currently, I’m building projects to sharpen my skills with IT/Cybersecurity tools <br/>
-Seeking an entry-level IT Help Desk or SOC Analyst role where I can grow and develop <br/>
+🔍Seeking an entry-level IT Help Desk or SOC Analyst role where I can grow and develop <br/>
 
 ## Certifications
 <div>
