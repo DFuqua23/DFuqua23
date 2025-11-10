@@ -24,7 +24,7 @@
 
 ## Projects (In Progress)
 
-| Skill                                         | Associated Project         |
+| Title                                         | Project Link        |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 
