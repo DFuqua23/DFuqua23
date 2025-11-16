@@ -26,7 +26,7 @@
 
 | Title                                         | Project Link        |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Active Directory/Domain Services         | <a href="https://google.com">Active Directory Lab</a>|
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dfuqua23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
