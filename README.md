@@ -3,8 +3,8 @@
 
 👨🏾‍💻Cybersecurity analyst <br/>
 🧑🏾‍🎓Studied IT fundamentals and cybersecurity concepts at San Diego State University, California <br/>
-💭Currently, I’m building projects to sharpen my skills with IT/Cybersecurity tools <br/>
-🔍Seeking an entry-level IT Help Desk or SOC Analyst role where I can grow and develop <br/>
+💭Currently, I’m building projects to sharpen my skills with IT tools <br/>
+🔍Seeking an entry-level IT Help Desk role where I can grow and developaf <br/>
 
 ## Certifications
 <div>
