@@ -1,10 +1,9 @@
-## 👋🏽Hello, I'm Dominique
+## Hello, I'm Dominique
 <a href="https://linkedin.com/in/dominique-fuqua-df?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8jNZAHzCTLGb2e5PYXp8NQ%3D%3D"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-👨🏾‍💻IT & Cyber Enthusiasts <br/>
-🧑🏾‍🎓Studied IT fundamentals and cybersecurity concepts at San Diego State University, California <br/>
-💭Currently, I’m building projects to sharpen my skills with IT tools <br/>
-🔍Seeking an entry-level IT Help Desk role where I can grow and develop <br/>
+I’m an IT and cybersecurity enthusiast based in San Diego, where I studied IT fundamentals and cybersecurity concepts through San Diego State University’s hands on technical program. 
+This is my portoflio space to showcase the hands-on labs and projects I’m building to gain more hands on experince and gain ecperience with real-world tools.
+I’m actively looking for an IT Help Desk role where I can keep learning, support users, and grow into a stronger IT professional.
 
 ## Certifications
 <div>
@@ -23,9 +22,10 @@
 
 ## Projects (In Progress)
 
-| Title                                         | Project Link        |
-|-----------------------------------------------|----------------------------|
-| Active Directory/Domain Services         | <a href="https://github.com/DFuqua23/Active-Directory-Corp-Lab">Active Directory Lab</a>|
+| Title                                         | Project Link        | Project Status       |
+|-----------------------------------------------|----------------------------|----------------------------|
+| Active Directory/Domain Services         | <a href="https://github.com/DFuqua23/Active-Directory-Corp-Lab">Active Directory Lab</a>|Completed|
+| Honey Pot         | <a href="">Tenable Lab</a>|Completed|
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dfuqua23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
