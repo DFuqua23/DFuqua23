@@ -3,7 +3,7 @@
 
 I’m an IT and cybersecurity enthusiast based in San Diego, where I studied IT fundamentals and cybersecurity concepts through San Diego State University’s hands on technical program. 
 This is my portoflio space to display the hands-on labs and projects I’m building to gain more technical experince with real-world tools.
-I’m actively looking for an IT Help Desk role where I can keep learning, support users, and grow into a stronger IT professional.
+I’m actively looking for an IT Help Desk role where I can keep learning and grow into a stronger IT professional.
 
 ## Certifications
 <div>
