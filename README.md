@@ -21,7 +21,8 @@ I’m actively looking for an IT Help Desk role where I can keep learning and gr
 | Title                                         | Project Link        | Project Status       |
 |-----------------------------------------------|----------------------------|----------------------------|
 | Active Directory/Domain Services         | <a href="https://github.com/DFuqua23/Active-Directory-Corp-Lab">Active Directory Lab</a>|Completed|
-| Home SOC + SIEM        | <a href="https://github.com/DFuqua23/Home-SOC-SIEM">Home SOC+SIEM Lab</a>|In Progress|
+| Home SOC + SIEM        | <a href="https://github.com/DFuqua23/Home-SOC-SIEM">Home SOC+SIEM Lab</a>|Completed|
+| ???     | <a href="https://google.com">A Lab of sorts</a>|Completed|
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dfuqua23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
