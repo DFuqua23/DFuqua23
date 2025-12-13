@@ -11,10 +11,40 @@ I’m actively looking for an IT Help Desk role where I can keep learning and gr
 
 ### 💻 Tech Stack:
 <div>
- <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
      <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Azure%20Log%20Analytics-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/-KQL-512BD4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows%20Event%20Logs-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%20Security%20Groups-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows%20Server%202019-0078D6?&style=for-the-badge&logo=windowsserver&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows%2010-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Ubuntu%20Linux-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
+<img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-DNS-005A9E?&style=for-the-badge&logo=cloudflare&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/-Automation-512BD4?&style=for-the-badge&logo=githubactions&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Identity%20%26%20Access%20Management-0078D4?&style=for-the-badge&logo=azureactivedirectory&logoColor=white" />
+<img src="https://img.shields.io/badge/-Group%20Policy%20Objects-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Authentication%20%26%20Authorization-005A9E?&style=for-the-badge&logo=auth0&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-TCP%2FIP-0067B8?&style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-RDP-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Firewall%20Rules-FF6F00?&style=for-the-badge&logo=fortinet&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-SIEM%20Dashboards-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Global%20Attack%20Mapping-FF0000?&style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/-Log%20Analysis-4CAF50?&style=for-the-badge&logo=elastic&logoColor=white" />
+
+
+
+
 
 ## Projects (In Progress)
 
