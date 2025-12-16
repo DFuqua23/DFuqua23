@@ -56,6 +56,3 @@ I’m actively looking for an IT Help Desk role where I can keep learning and gr
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dfuqua23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dfuqua23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
